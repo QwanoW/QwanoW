@@ -11,7 +11,7 @@ I'm currently in my 3rd year of college, diving deep into the world of coding an
 
 ## 💻 My Projects:
 - [FPS Console Game](https://github.com/QwanoW/go-fps) - A fast-paced shooter game written in Go.
-- [Wave Music App](https://github.com/QwanoW/wave-music) - A sleek music application, crafted with Vue.js and PHP.
+- [Wave Music](https://github.com/QwanoW/wave-music) - A sleek music application, crafted with Vue.js and PHP.
 - [Sneakers Shop](https://github.com/QwanoW/sneakers-shop) - An online store for sneaker enthusiasts, built with React.
 - [Vanilla Tailwind Template](https://github.com/QwanoW/vanilla-tailwind-template) - A starter template for projects using Vanilla JS and Tailwind CSS.
 
