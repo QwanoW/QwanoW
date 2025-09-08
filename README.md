@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I'm currently in my 3rd year of college, diving deep into the world of coding and development. Check out my coding activity below!
-
 [![wakatime](https://wakatime.com/badge/user/5d7e32e6-4afa-4120-874e-6a78966044a8.svg)](https://wakatime.com/@5d7e32e6-4afa-4120-874e-6a78966044a8)
-
-## 💫 About Me:
-📚 3rd Year College Student
-👨‍💻 Passionate about software development
-🚀 Always ready to learn and explore new technologies
 
 ## 💻 My Projects:
 - [FPS Console Game](https://github.com/QwanoW/go-fps) - A fast-paced shooter game written in Go.
